@@ -18,14 +18,14 @@
                         <subviews>
                             <view contentMode="scaleToFill" placeholderIntrinsicWidth="40" placeholderIntrinsicHeight="100" translatesAutoresizingMaskIntoConstraints="NO" id="GsI-Bi-rvT">
                                 <rect key="frame" x="280" y="250" width="40" height="100"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="100" id="fNm-h3-qXv"/>
                                 </constraints>
                             </view>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0ia-Gb-scQ">
-                                <rect key="frame" x="277" y="393" width="46" height="30"/>
-                                <state key="normal" title="Button">
+                                <rect key="frame" x="265" y="393" width="70" height="30"/>
+                                <state key="normal" title="Add Label">
                                     <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
                                 </state>
                                 <connections>
